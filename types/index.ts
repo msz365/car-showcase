@@ -70,5 +70,5 @@ export interface ShowMoreProps {
 
 export interface SearchManuFacturerProps {
   manufacturer: string;
-  setManuFacturer: (manufacturer: string) => void;
+  setManufacturer: (manufacturer: string) => void;
 }
